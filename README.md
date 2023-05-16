@@ -1,4 +1,6 @@
-# redgyro
+## redgyro
+# This script is no longer necessary. R3D gyro parsing, both sync and async is implemented in main Gyroflow natively already.
+
 Rough batch converter script to generate `.gcsv` gyro log files from RED `.R3D` for Gyroflow stabilization (https://github.com/gyroflow/gyroflow)
 
 Plan is to properly integrate the functionality with Gyroflow and [Telemetry-parser](https://github.com/AdrianEddy/telemetry-parser) soon^tm, so this is just to have the test code somewhere available for now.
